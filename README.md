@@ -7,10 +7,7 @@ Players attempt to guess a hidden 5-letter word within limited attempts and rece
 
 ## Live Demo
 
-(Add after deployment)
-
-https://your-demo-link.com
-
+https://ravi-p-k-1.github.io/Wordle-Clone/
 
 
 ## Features
